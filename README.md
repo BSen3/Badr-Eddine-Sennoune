@@ -1,132 +1,63 @@
-# Badr Eddine Sennoune
-Hello World, I'm Badr Eddine SENNOUNE
-# Hi there 👋, I'm Badr Eddine Sennoune
+# Hi, I'm Badr Eddine Sennoune 👋
 
-## 🚀 About Me
+**Mechatronics Engineer | PhD Student | Embedded Systems · Robotics · Industrial Automation · IoT**
+📍 Fez, Morocco
 
-I'm a **Mechatronics Engineer** passionate about designing intelligent systems that bridge hardware and software. My interests include **Embedded Systems, Industrial Automation, Robotics, IoT, Control Systems, and Artificial Intelligence**.
-
-I enjoy developing innovative engineering solutions, learning new technologies, and collaborating on impactful projects.
+I design intelligent systems that bridge hardware and software, from modelling and simulation to real-world implementation.
 
 ---
 
-## 🎓 Education
+## 🎓 Background
 
-- 🎓 Mechatronics Engineering
-- 📍 National School of Applied Sciences (ENSA), Fez, Morocco
-
----
-
-## 💼 Areas of Interest
-
-- 🤖 Robotics
-- ⚙️ Industrial Automation
-- 🔌 Embedded Systems
-- 🌐 Internet of Things (IoT)
-- 📡 Sensors & Instrumentation
-- 🎛️ PLC Programming
-- 📈 Control Engineering
-- 🧠 Artificial Intelligence for Engineering
-- 🏭 Industry 4.0
+- **State Engineer in Mechanical Engineering & Automated Systems (Mechatronics)**, ENSA Fès, USMBA
+- **PhD student**, ENSA Fès: intelligent control of autonomous systems (SMC, MPC, Simulink)
+- **Maintenance Engineer (intern)**, Lesaffre Maroc: TPM and industrial maintenance
+- **Final-year project**: automated test bench for automotive wiring harnesses
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Programming Languages
-- C
-- C++
-- Python
-- MATLAB
-- Arduino
-
-### Embedded Platforms
-- ESP32
-- Raspberry Pi
-- Arduino
-
-### Automation & Industrial Tools
-- PLC Programming
-- HMI
-- SCADA
-- GRAFCET
-
-### Software & Design
-- SolidWorks
-- CATIA
-- AutoCAD
-- Proteus
-- KiCad
-- Cirkit Designer
-- MATLAB/Simulink
-
-### Communication Protocols
-- UART
-- I2C
-- SPI
-- Wi-Fi
-- Bluetooth
-- MQTT
+| Domain | Tools & Technologies |
+|---|---|
+| **Programming** | C, C++, Python, MATLAB, Arduino |
+| **Embedded platforms** | ESP32, Raspberry Pi, Arduino |
+| **Industrial automation** | PLC, HMI, SCADA, GRAFCET |
+| **Control & simulation** | MATLAB / Simulink, Bode & Nyquist analysis |
+| **CAD & electronics design** | SolidWorks, CATIA, AutoCAD, Proteus, KiCad, Cirkit Designer |
+| **Protocols** | UART, I2C, SPI, Wi-Fi, Bluetooth, MQTT |
 
 ---
 
 ## 📌 Featured Projects
 
-🔹 Smart Connected Sports Vest
+### 🔹 Smart Connected Sports Vest
+Embedded IoT system for real-time monitoring of physiological data.
+`ESP32` `Raspberry Pi` `Sensors` `MQTT` `Real-time acquisition`
 
-- ESP32-based embedded system
-- Raspberry Pi integration
-- Physiological sensor monitoring
-- IoT communication
-- Real-time data acquisition
+### 🔹 Automotive ABS Control System
+Modelling, analysis and embedded implementation of an anti-lock braking controller.
+`Mathematical modelling` `Bode & Nyquist` `Control design` `Embedded implementation`
 
----
-
-🔹 Automotive ABS Control System
-
-- Mathematical modeling
-- Control system analysis
-- Bode & Nyquist diagrams
-- Embedded implementation
+*More projects and source code coming soon.*
 
 ---
 
 ## 🌱 Currently Learning
 
-- ROS2
-- Machine Learning
-- Computer Vision
-- Digital Twin
-- Advanced Industrial Automation
-- Edge AI
+ROS2 · Machine Learning · Computer Vision · Digital Twins · Edge AI · Advanced Industrial Automation
 
 ---
 
 ## 🤝 Let's Collaborate
 
-I'm always interested in collaborating on projects related to:
-
-- Embedded Systems
-- Robotics
-- Automation
-- IoT
-- Artificial Intelligence
-- Open Source Engineering
+Open to projects and discussions on **embedded systems, robotics, automation, IoT and AI for engineering**.
 
 ---
 
-## 📫 Contact Me
+## 📫 Contact
 
-- 📧 Email: badreddinesennoune98@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/linkedin.com/in/badr-eddine-sennoune-7273051ba
-
-
-
----
-
-## ⚡ Motto
+- 📧 [badreddinesennoune98@gmail.com](mailto:badreddinesennoune98@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/badr-eddine-sennoune-7273051ba)
 
 > *"Engineering is the art of transforming ideas into intelligent solutions."*
-
----
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
