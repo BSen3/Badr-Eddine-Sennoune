@@ -1,6 +1,6 @@
 # Hi, I'm Badr Eddine Sennoune 👋
 
-**Mechatronics Engineer | PhD Student | Embedded Systems · Robotics · Industrial Automation · IoT**
+**Mechatronics Engineer | PhD Candidate | Embedded Systems · Robotics · Industrial Automation · IoT**
 📍 Fez, Morocco
 
 I design intelligent systems that bridge hardware and software, from modelling and simulation to real-world implementation.
